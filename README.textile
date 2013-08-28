@@ -4,7 +4,7 @@ h2. A Distributed RESTful Search Engine
 
 h3. "http://www.elasticsearch.org":http://www.elasticsearch.org
 
-!http://ranwidget.gsdev.info/embed/img/3941bd9c-edeb-478f-9ed8-466d71817a7b!:http://ranwidget.gsdev.info/widget/single/3941bd9c-edeb-478f-9ed8-466d71817a7b
+!http://ranwidget.gsdev.info/embed/img/3941bd9c-edeb-478f-9ed8-466d71817a7b!:http://rantav.github.io/cloudify-widget-pages/es.html
 
 ElasticSearch is a distributed RESTful search engine built for the cloud. Features include:
 
